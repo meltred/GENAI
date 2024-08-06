@@ -1,1 +1,2 @@
-# RAG To Ask Question about the Local Documents 
+# GENAI BASIC IMPLEMENTATION AND EXPERIMENTS
+
