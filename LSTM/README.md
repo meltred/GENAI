@@ -1,1 +1,1 @@
-# Basic Newbie project with LSTM(long short term memory)
+# Basic Newbie project with LSTM and GRU(long short term memory)
