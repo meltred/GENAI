@@ -1,3 +1,3 @@
-# GENAI BASIC IMPLEMENTATION AND EXPERIMENTS
-### many algo have been implemented
+# GENAI Techniques Implementing from ground up
+
 
